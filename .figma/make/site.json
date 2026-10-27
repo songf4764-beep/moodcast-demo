@@ -1,0 +1,12 @@
+{
+  "description": "按当下心情、需求和可用时间为播客听众推荐合适的音频，并支持试听、播放控制与个性化调整。",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "MOODCAST · 播客推荐 Demo",
+  "language": "zh-CN"
+}
